@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://nqsxp7mr7nd1"
+path="res://.godot/imported/1-31. Homecoming, And Then....mp3-9346d894b799cf2630f4e0e467e2b77c.mp3str"
+
+[deps]
+
+source_file="res://assets/PPT/Music/1-31. Homecoming, And Then....mp3"
+dest_files=["res://.godot/imported/1-31. Homecoming, And Then....mp3-9346d894b799cf2630f4e0e467e2b77c.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

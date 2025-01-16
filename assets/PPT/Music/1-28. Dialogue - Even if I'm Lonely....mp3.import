@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://jcosufg01p26"
+path="res://.godot/imported/1-28. Dialogue - Even if I'm Lonely....mp3-fba17c31dd7b4cd06997564b53e63d3f.mp3str"
+
+[deps]
+
+source_file="res://assets/PPT/Music/1-28. Dialogue - Even if I'm Lonely....mp3"
+dest_files=["res://.godot/imported/1-28. Dialogue - Even if I'm Lonely....mp3-fba17c31dd7b4cd06997564b53e63d3f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

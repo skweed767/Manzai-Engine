@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://is1mejlyhopy"
+path="res://.godot/imported/1-30. Dialogue - The Edge of Spacetime.mp3-7b03d25d8f64c28c3817850cf192e23f.mp3str"
+
+[deps]
+
+source_file="res://assets/PPT/Music/1-30. Dialogue - The Edge of Spacetime.mp3"
+dest_files=["res://.godot/imported/1-30. Dialogue - The Edge of Spacetime.mp3-7b03d25d8f64c28c3817850cf192e23f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

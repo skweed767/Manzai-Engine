@@ -1,0 +1,508 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+: main
+MzSetBG	15
+
+MzLoadChr 1 3
+MzLoadChr 2 25
+MzLoadChr 3 6
+MzLoadChr 4 24
+MzLoadChr 5 17
+MzLoadChr 6 16
+MzLoadChr 7 14
+MzLoadChr 8 0
+
+
+LoadBGM	5
+LoadBGM	7
+
+
+
+
+;
+
+: phase_manzai_init
+MzStartDemoDarkness
+PlayBGM	7	30
+;
+
+: phase_manzai_main
+MzEffectAll 2
+MzWaitEffectAll
+Wait	60
+
+
+
+MzExitChr 1
+MzWaitChr 1
+MzEnterChr 1 5 MzChangeAnime 1 5 MzWaitChr 1
+MzAttentionChr 1
+MzWaitChr 1
+
+MzSetText	"manzai_002_008_001"	1	0	0	0	MzWaitText
+
+MzExitChr 0
+MzWaitChr 0
+MzEnterChr 0 2 MzChangeAnime 0 2 MzWaitChr 0
+MzAttentionChr 0
+MzWaitChr 0
+
+MzSetText	"manzai_002_008_002"	0	0	0	0	MzWaitText
+
+
+MzSetText	"manzai_002_008_003"	0	0	0	0	MzWaitText
+
+MzExitChr 1
+MzWaitChr 1
+MzEnterChr 1 6 MzChangeAnime 1 2 MzWaitChr 1
+MzAttentionChr 1
+MzWaitChr 1
+
+MzSetText	"manzai_002_008_004"	1	0	0	0	MzWaitText
+
+MzExitChr 1
+MzWaitChr 1
+MzEnterChr 1 5 MzChangeAnime 1 0 MzWaitChr 1
+MzAttentionChr 1
+MzWaitChr 1
+
+MzSetText	"manzai_002_008_005"	1	0	0	0	MzWaitText
+
+
+MzSetText	"manzai_002_008_006"	1	0	0	0	MzWaitText
+
+MzChangeAnime 1 5 MzWaitChr 1	
+
+
+MzSetText	"manzai_002_008_007"	1	0	0	0	MzWaitText
+
+MzChangeAnime 0 1 MzWaitChr 0
+MzAttentionChr 0
+MzWaitChr 0
+
+MzSetText	"manzai_002_008_008"	0	0	0	0	MzEffectChr	0	6
+MzWaitText
+MzEffectChr	0	-1
+
+MzChangeAnime 1 7 MzWaitChr 1
+MzAttentionChr 1
+MzWaitChr 1
+
+MzSetText	"manzai_002_008_009"	1	0	0	0	MzEffectChr	1	6
+MzWaitText
+MzEffectChr	1	-1
+
+MzAttentionChr 0
+MzWaitChr 0
+
+MzSetText	"manzai_002_008_010"	0	0	0	0	MzEffectChr	0	6
+MzWaitText
+MzEffectChr	0	-1
+
+MzAttentionChr 1
+MzWaitChr 1
+
+MzSetText	"manzai_002_008_011"	1	0	0	0	MzEffectChr	1	1
+MzWaitText
+MzEffectChr	1	-1
+
+
+MzChangeAnime 0 0 MzWaitChr 0
+MzAttentionChr 0
+MzWaitChr 0
+
+MzSetText	"manzai_002_008_012"	0	0	0	0	MzWaitText
+
+MzChangeAnime 1 7 MzWaitChr 1
+MzAttentionChr 1
+MzWaitChr 1
+
+MzSetText	"manzai_002_008_013"	1	0	0	0	MzEffectChr	1	6
+MzWaitText
+MzEffectChr	1	-1
+
+MzExitChr 0
+MzWaitChr 0
+MzEnterChr 0 8 MzChangeAnime 0 5 MzWaitChr 0
+MzAttentionChr 0
+MzWaitChr 0
+
+MzSetText	"manzai_002_008_014"	0	1	0	0	MzWaitText
+
+MzExitChr 0
+MzWaitChr 0
+MzEnterChr 0 6 MzChangeAnime 0 2 MzWaitChr 0
+MzAttentionChr 0
+MzWaitChr 0
+
+MzSetText	"manzai_002_008_015"	0	1	0	0	MzWaitText
+
+MzAttentionChr 1
+MzWaitChr 1
+
+MzSetText	"manzai_002_008_016"	1	0	0	0	MzEffectChr	1	1
+MzWaitText
+MzEffectChr	1	-1
+
+MzExitChr 0
+MzWaitChr 0
+MzEnterChr 0 2 MzChangeAnime 0 0 MzWaitChr 0
+MzAttentionChr 0
+MzWaitChr 0
+
+MzSetText	"manzai_002_008_017"	0	0	0	0	MzWaitText
+
+
+MzSetText	"manzai_002_008_018"	0	0	0	0	MzWaitText
+
+MzChangeAnime 0 2 MzWaitChr 1	
+
+MzSetText	"manzai_002_008_019"	0	0	0	0	MzWaitText
+
+MzExitChr 1
+MzWaitChr 1
+MzEnterChr 1 1 MzChangeAnime 1 2 MzWaitChr 1
+MzAttentionChr 1
+MzWaitChr 1
+
+MzSetText	"manzai_002_008_020"	1	0	0	0	MzWaitText
+
+MzSetText	"manzai_002_008_021"	1	0	0	0	MzEffectChr	1	1
+MzWaitText
+MzEffectChr	1	-1
+
+MzChangeAnime 0 0 MzWaitChr 1
+MzAttentionChr 0
+MzWaitChr 0
+
+MzSetText	"manzai_002_008_022"	0	0	0	0	MzEffectChr	0	6
+MzWaitText
+MzEffectChr	0	-1
+
+MzChangeAnime 1 2 MzWaitChr 1
+MzAttentionChr 1
+MzWaitChr 1
+
+MzSetText	"manzai_002_008_023"	1	0	0	0	MzEffectChr	1	1
+MzWaitText
+MzEffectChr	1	-1
+
+MzChangeAnime 0 2 MzWaitChr 0
+MzAttentionChr 0
+MzWaitChr 0
+
+MzSetText	"manzai_002_008_024"	0	0	0	0	MzWaitText
+
+
+MzSetText	"manzai_002_008_025"	0	0	0	0	MzEffectChr	0	7
+MzWaitText
+MzEffectChr	0	-1
+
+MzChangeAnime 1 2 MzWaitChr 1
+MzAttentionChr 1
+MzWaitChr 1
+
+MzSetText	"manzai_002_008_026"	1	0	0	0	MzEffectChr	1	2
+MzWaitText
+MzEffectChr	1	-1
+
+MzExitChr 1
+MzWaitChr 1
+MzEnterChr 1 4 MzChangeAnime 1 1 MzWaitChr 1
+MzAttentionChr 1
+MzWaitChr 1
+
+MzSetText	"manzai_002_008_027"	1	0	0	0	MzWaitText
+
+MzExitChr 1
+MzWaitChr 1
+MzEnterChr 1 3 MzChangeAnime 1 2 MzWaitChr 1
+MzAttentionChr 1
+MzWaitChr 1
+
+MzSetText	"manzai_002_008_028"	1	0	0	0	MzWaitText
+
+
+MzSetText	"manzai_002_008_029"	1	0	0	0	MzWaitText
+
+
+MzSetText	"manzai_002_008_030"	1	0	0	0	MzWaitText
+
+MzChangeAnime 1 4 MzWaitChr 0	
+
+MzSetText	"manzai_002_008_031"	1	0	0	0	MzWaitText
+
+MzChangeAnime 0 3 MzWaitChr 0
+MzAttentionChr 0
+MzWaitChr 0
+
+MzSetText	"manzai_002_008_032"	0	0	0	0	MzEffectChr	0	5
+PlaySE	4
+MzWaitText
+MzEffectChr	0	-1
+
+
+MzChangeAnime 1 0 MzWaitChr 1	
+MzAttentionChr 1
+MzWaitChr 1
+
+MzSetText	"manzai_002_008_033"	1	0	0	0	MzWaitText
+
+
+MzSetText	"manzai_002_008_034"	1	0	0	0	MzWaitText
+
+MzAttentionChr 0
+MzWaitChr 0
+
+MzSetText	"manzai_002_008_035"	0	0	0	0	MzWaitText
+
+
+MzAttentionChr 1
+MzWaitChr 1
+
+MzSetText	"manzai_002_008_036"	1	0	0	0	MzWaitText
+
+
+MzSetText	"manzai_002_008_037"	1	0	0	0	MzWaitText
+
+
+MzSetText	"manzai_002_008_038"	1	0	0	0	MzWaitText
+
+MzChangeAnime 1 4 MzWaitChr 0	
+
+MzSetText	"manzai_002_008_039"	1	0	0	0	MzWaitText
+
+MzExitChr 1
+MzWaitChr 1
+MzEnterChr 1 4 MzChangeAnime 1 1 MzWaitChr 1
+MzAttentionChr 1
+MzWaitChr 1
+
+MzSetText	"manzai_002_008_040"	1	0	0	0	MzWaitText
+
+
+MzChangeAnime 0 5 MzWaitChr 0
+MzAttentionChr 0
+MzWaitChr 0
+
+MzSetText	"manzai_002_008_041"	0	1	0	0	MzEffectChr	0	3
+MzWaitText
+MzEffectChr	0	-1
+
+MzExitChr 1
+MzWaitChr 1
+MzEnterChr 1 8 MzChangeAnime 1 6 MzWaitChr 1
+MzAttentionChr 1
+MzWaitChr 1
+
+MzSetText	"manzai_002_008_042"	1	0	0	0	MzWaitText
+
+MzChangeAnime 0 4 MzWaitChr 0
+MzAttentionChr 0
+MzWaitChr 0
+
+MzSetText	"manzai_002_008_043"	0	0	0	0	MzEffectChr	0	4
+MzWaitText
+
+MzExitChr 1
+MzWaitChr 1
+MzEnterChr 1 1 MzChangeAnime 1 4 MzWaitChr 1
+MzAttentionChr 1
+MzWaitChr 1
+
+MzSetText	"manzai_002_008_044"	1	0	0	0	MzWaitText
+
+MzChangeAnime 1 0 MzWaitChr 0	
+
+MzSetText	"manzai_002_008_045"	1	0	0	0	MzWaitText
+
+MzChangeAnime 1 1 MzWaitChr 0	
+
+MzSetText	"manzai_002_008_046"	1	0	0	0	MzEffectChr	1	0
+PlaySE	5
+MzWaitText
+MzEffectChr	1	-1
+
+MzChangeAnime 1 0 MzWaitChr 0	
+
+MzSetText	"manzai_002_008_047"	1	0	0	0	MzWaitText
+
+MzChangeAnime 1 2 MzWaitChr 0	
+
+MzSetText	"manzai_002_008_048"	1	0	0	0	MzWaitText
+
+
+MzSetText	"manzai_002_008_049"	1	0	0	0	MzWaitText
+
+MzChangeAnime 1 4 MzWaitChr 0	
+
+MzSetText	"manzai_002_008_050"	1	0	0	0
+MzWaitText
+
+StopBGM	7	60
+
+
+MzChangeAnime 0 4 MzWaitChr 0
+MzAttentionChr 0
+MzWaitChr 0
+
+
+MzSetText	"manzai_002_008_051"	0	0	0	0	MzWaitText
+
+MzChangeAnime 1 5 MzWaitChr 1
+MzAttentionChr 1
+MzWaitChr 1
+
+MzSetText	"manzai_002_008_052"	1	0	0	0	MzEffectChr	1	5
+PlaySE	4
+MzWaitText
+MzEffectChr	1	-1
+MzEffectChr	0	-1
+
+PlayBGM	5	60
+
+MzChangeAnime 0 5 MzWaitChr 0
+MzAttentionChr 0
+MzWaitChr 0
+
+MzSetText	"manzai_002_008_053"	0	0	0	0	MzEffectChr	0	3
+MzWaitText	
+
+MzSetText	"manzai_002_008_054"	0	1	0	0	MzWaitText
+MzEffectChr	0	-1
+
+MzChangeAnime 1 2 MzWaitChr 1
+MzAttentionChr 1
+MzWaitChr 1
+
+MzSetText	"manzai_002_008_055"	1	0	0	0	MzWaitText
+
+MzExitChr 1
+MzWaitChr 1
+MzEnterChr 1 5 MzChangeAnime 1 5 MzWaitChr 1
+MzAttentionChr 1
+MzWaitChr 1
+
+MzSetText	"manzai_002_008_056"	1	0	0	0	MzWaitText
+
+MzChangeAnime 0 6 MzWaitChr 0
+MzAttentionChr 0
+MzWaitChr 0
+
+MzSetText	"manzai_002_008_057"	0	0	0	0	MzWaitText
+
+MzChangeAnime 1 3 MzWaitChr 1
+MzAttentionChr 1
+MzWaitChr 1
+
+MzSetText	"manzai_002_008_058"	1	0	0	0	MzWaitText
+
+
+MzSetText	"manzai_002_008_059"	1	0	0	0	MzWaitText
+
+MzExitChr 1
+MzWaitChr 1
+MzEnterChr 1 6 MzChangeAnime 1 0 MzWaitChr 1
+MzAttentionChr 1
+MzWaitChr 1
+
+MzSetText	"manzai_002_008_060"	1	0	0	0	MzEffectChr	1	6
+MzWaitText
+MzEffectChr	1	-1
+
+MzExitChr 1
+MzWaitChr 1
+MzEnterChr 1 5 MzChangeAnime 1 0 MzWaitChr 1
+MzAttentionChr 1
+MzWaitChr 1
+
+MzSetText	"manzai_002_008_061"	1	0	0	0	MzWaitText
+
+MzChangeAnime 0 4 MzWaitChr 0
+MzAttentionChr 0
+MzWaitChr 0
+
+MzSetText	"manzai_002_008_062"	0	0	0	0	MzEffectChr	0	4
+MzWaitText
+
+
+MzSetText	"manzai_002_008_063"	0	0	0	0	MzWaitText
+MzEffectChr	1	-1
+
+MzChangeAnime 1 5 MzWaitChr 1
+MzAttentionChr 1
+MzWaitChr 1
+
+MzSetText	"manzai_002_008_064"	1	0	0	0	MzWaitText
+
+
+MzSetText	"manzai_002_008_065"	1	1	0	0	MzWaitText
+
+
+
+MzEffectBg	1	0	30	0
+MzWaitEffectAll 
+;
+ 

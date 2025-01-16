@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cfwuxbrp64mvg"
+path="res://.godot/imported/1-24. Dialogue - Each and Every World.mp3-2a376ddad2238588b15ec8419a567cb5.mp3str"
+
+[deps]
+
+source_file="res://assets/PPT/Music/1-24. Dialogue - Each and Every World.mp3"
+dest_files=["res://.godot/imported/1-24. Dialogue - Each and Every World.mp3-2a376ddad2238588b15ec8419a567cb5.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

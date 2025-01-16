@@ -1,0 +1,710 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+: main
+MzSetBG	26
+
+MzLoadChr	1	3
+MzLoadChr	6	14
+
+LoadBGM	9
+
+
+
+;
+
+: phase_manzai_init
+MzStartDemoDarkness
+
+;
+
+: phase_manzai_main
+Wait	30
+MzEffectAll 2
+MzWaitEffectAll
+PlayBGM	9	30
+MzEnterChr	1	1
+MzChangeAnime	1 2
+MzEnterChr	0	6
+MzWaitChr	1
+MzWaitChr	0
+
+MzAttentionChr	1
+MzWaitChr	1
+
+MzSetText	1	0	1	4	0 0
+MzWaitText
+
+MzAttentionChr	0
+MzChangeAnime	0 2
+MzWaitChr	0
+
+MzSetText	1	1	0	0	0 0
+MzWaitText
+MzSetText	1	2	0	3	0 0
+MzWaitText
+
+MzAttentionChr	1
+MzWaitChr	1
+
+MzSetText	1	3	1	1	0 0
+MzWaitText
+
+MzAttentionChr	0
+MzChangeAnime	0 4
+MzWaitChr	0
+
+MzSetText	1	4	0	4	0 0
+MzWaitText
+
+MzExitChr	2
+MzWaitChr	2
+
+MzDeleteChr	1
+
+MzDeleteChr	6
+
+MzLoadChr	4	16
+
+MzEnterChr	1	4
+MzWaitChr	1
+
+MzLoadChr	3	30
+
+MzEnterChr	0	3
+MzChangeAnime	0 1
+MzWaitChr	0
+MzAttentionChr	0
+MzWaitChr	0
+
+MzSetText	1	5	0	0	0 0
+MzWaitText
+
+MzAttentionChr	1
+MzWaitChr	1
+
+MzSetText	1	6	1	0	0 0
+MzWaitText
+
+MzAttentionChr	0
+MzWaitChr	0
+
+MzSetText	1	7	0	0	0 0
+MzWaitText
+
+MzAttentionChr	1
+MzWaitChr	1
+
+MzSetText	1	8	1	0	0 0
+MzWaitText
+
+MzAttentionChr	0
+MzChangeAnime	0 2
+MzWaitChr	0
+
+MzSetText	1	9	0	0	0 0
+MzWaitText
+
+MzAttentionChr	1
+MzChangeAnime	1 1
+MzWaitChr	1
+
+MzSetText	1	10	1	0	0 0
+MzWaitText
+
+MzExitChr	0
+MzWaitChr	0
+
+MzDeleteChr	3
+
+MzLoadChr	2	6
+
+MzEnterChr	0	2
+MzWaitChr	0
+
+MzAttentionChr	0
+MzChangeAnime	0 2
+MzWaitChr	0
+
+MzSetText	1	11	0	6	0 0
+MzWaitText
+MzSetText	1	12	0	3	0 0
+MzWaitText
+
+MzExitChr	1
+MzWaitChr	1
+
+MzDeleteChr	4
+
+MzLoadChr	0	0
+
+MzEnterChr	1	0
+MzWaitChr	1
+MzAttentionChr	1
+MzWaitChr	1
+
+MzSetText	1	13	1	0	0 0
+MzWaitText
+
+MzAttentionChr	0
+MzChangeAnime	0 5
+MzWaitChr	0
+
+MzSetText	1	14	0	0	0 0
+MzWaitText
+
+MzAttentionChr	1
+MzWaitChr	1
+
+MzSetText	1	15	1	3	0 0
+MzWaitText
+MzSetText	1	16	1	0	0 0
+MzChangeAnime	1 1
+MzEffectChr	1	7
+MzWaitText
+MzEffectChr	1	-1
+
+MzAttentionChr	0
+MzChangeAnime	0 2
+MzWaitChr	0
+
+MzSetText	1	17	0	3	0 0
+MzWaitText
+
+MzExitChr	0
+MzWaitChr	0
+
+MzDeleteChr	2
+
+MzLoadChr	5	17
+
+MzEnterChr	0	5
+MzChangeAnime	0 2
+MzWaitChr	0
+
+MzAttentionChr	0
+MzWaitChr	0
+
+MzSetText	1	18	0	3	0 0
+MzWaitText
+MzSetText	1	19	0	0	0 0
+MzWaitText
+
+MzAttentionChr	1
+MzWaitChr	1
+
+MzSetText	1	20	1	6	0 0
+MzEffectChr	1	7
+MzWaitText
+MzEffectChr	1	-1
+
+MzAttentionChr	0
+MzWaitChr	0
+
+MzSetText	1	21	0	0	0 0
+MzWaitText
+
+MzAttentionChr	1
+MzChangeAnime	1 1
+MzWaitChr	1
+
+MzSetText	1	22	1	6	0 0
+MzWaitText
+MzSetText	1	23	1	0	0 0
+MzWaitText
+MzSetText	1	24	1	0	0 0
+MzChangeAnime	1 4
+MzWaitText
+
+MzExitChr	1
+MzWaitChr	1
+
+MzDeleteChr	0
+
+MzLoadChr	2	6
+
+MzEnterChr	1	2
+MzChangeAnime	1 2
+MzWaitChr	1
+
+MzAttentionChr	0
+MzWaitChr	0
+
+MzSetText	1	25	0	0	0 0
+MzWaitText
+
+MzAttentionChr	1
+MzWaitChr	1
+
+MzSetText	1	26	1	0	0 0
+MzWaitText
+MzSetText	1	27	1	0	0 0
+MzWaitText
+
+MzAttentionChr	0
+MzWaitChr	0
+
+MzSetText	1	28	0	0	0 0
+MzWaitText
+
+MzExitChr	2
+MzWaitChr	2
+
+MzDeleteChr	5
+
+MzDeleteChr	2
+
+MzEffectAll 1
+MzWaitEffectAll 
+MzSetBG	35
+MzEffectAll 2
+MzWaitEffectAll
+
+
+MzLoadChr	0	0
+
+MzEnterChr	1	0
+MzChangeAnime	1 2
+MzWaitChr	1
+MzAttentionChr	1
+MzWaitChr	1
+
+MzSetText	1	29	1	2	0 0
+MzWaitText
+
+MzLoadChr	5	17
+
+MzEnterChr	0	5
+MzWaitChr	0
+MzAttentionChr	0
+MzWaitChr	0
+
+MzSetText	1	30	0	0	0 0
+MzWaitText
+
+MzAttentionChr	1
+MzChangeAnime	1 9
+MzWaitChr	1
+
+MzSetText	1	31	1	0	0 0
+MzWaitText
+
+MzAttentionChr	0
+MzWaitChr	0
+
+MzSetText	1	32	0	0	0 0
+MzWaitText
+
+MzAttentionChr	1
+MzChangeAnime	1 1
+MzWaitChr	1
+
+MzSetText	1	33	1	6	0 0
+MzWaitText
+
+MzAttentionChr	0
+MzWaitChr	0
+
+MzSetText	1	34	0	0	0 0
+MzWaitText
+
+MzAttentionChr	1
+MzWaitChr	1
+
+MzSetText	1	35	1	3	0 0
+MzWaitText
+MzSetText	1	36	1	6	0 0
+MzWaitText
+
+MzAttentionChr	0
+MzWaitChr	0
+
+MzSetText	1	37	0	0	0 0
+MzWaitText
+
+MzAttentionChr	1
+MzWaitChr	1
+
+MzSetText	1	38	1	6	0 0
+MzWaitText
+
+MzAttentionChr	0
+MzWaitChr	0
+
+MzSetText	1	39	0	0	0 0
+MzWaitText
+
+MzAttentionChr	1
+MzChangeAnime	1 0
+MzWaitChr	1
+
+MzSetText	1	40	1	0	0 0
+MzWaitText
+
+MzAttentionChr	0
+MzChangeAnime	0 2
+MzWaitChr	0
+
+MzSetText	1	41	0	0	0 0
+MzWaitText
+
+MzAttentionChr	1
+MzWaitChr	1
+
+MzSetText	1	42	1	0	0 0
+MzWaitText
+
+MzAttentionChr	0
+MzWaitChr	0
+
+MzSetText	1	43	0	3	0 0
+MzWaitText
+
+MzAttentionChr	1
+MzChangeAnime	1 3
+MzWaitChr	1
+
+MzSetText	1	44	1	0	0 0
+MzWaitText
+MzSetText	1	45	1	0	0 0
+MzWaitText
+MzSetText	1	46	1	3	0 0
+MzWaitText
+MzSetText	1	47	1	0	0 0
+MzWaitText
+
+MzAttentionChr	0
+MzChangeAnime	0 2
+MzWaitChr	0
+
+MzSetText	1	48	0	0	0 0
+MzWaitText
+
+MzAttentionChr	1
+MzWaitChr	1
+
+MzSetText	1	49	1	0	0 0
+MzWaitText
+MzSetText	1	50	1	6	0 0
+MzWaitText
+
+MzAttentionChr	0
+MzWaitChr	0
+
+MzSetText	1	51	0	0	0 0
+MzWaitText
+MzSetText	1	52	0	3	0 0
+MzWaitText
+
+MzAttentionChr	1
+MzChangeAnime	1 2
+MzWaitChr	1
+
+MzSetText	1	53	1	6	0 0
+MzWaitText
+
+MzAttentionChr	0
+MzChangeAnime	0 6
+MzWaitChr	0
+
+MzSetText	1	54	0	3	0 0
+PlaySE	4
+MzEffectChr	0	5
+MzWaitText
+MzEffectChr	0	-1
+
+MzAttentionChr	1
+MzChangeAnime	1 5
+MzWaitChr	1
+
+MzSetText	1	55	1	3	0 0
+MzWaitText
+
+MzAttentionChr	0
+MzChangeAnime	0 8
+MzWaitChr	0
+
+MzSetText	1	56	0	7	0 0
+MzEffectChr	0	2
+MzWaitText
+MzEffectChr	0	-1
+
+MzAttentionChr	1
+MzWaitChr	1
+
+MzSetText	1	57	1	3	0 0
+MzWaitText
+
+MzAttentionChr	0
+MzWaitChr	0
+
+MzSetText	1	58	0	4	0 0
+MzEffectChr	0	2
+MzWaitText
+MzEffectChr	0	-1
+
+MzAttentionChr	1
+MzChangeAnime	1 1
+MzWaitChr	1
+
+MzSetText	1	59	1	0	0 0
+MzWaitText
+
+MzExitChr	0
+MzWaitChr	0
+
+MzDeleteChr	5
+
+MzLoadChr	2	6
+
+MzEnterChr	0	2
+MzChangeAnime	0 1
+MzWaitChr	0
+MzAttentionChr	0
+MzWaitChr	0
+
+MzSetText	1	60	0	6	0 0
+MzWaitText
+
+MzAttentionChr	1
+MzChangeAnime	1 6
+MzEffectChr	1	1
+MzWaitChr	1
+
+MzSetText	1	61	1	0	0 0
+MzWaitText
+
+MzExitChr	0
+MzWaitChr	0
+
+MzDeleteChr	2
+
+MzLoadChr	1	3
+
+MzEnterChr	0	1
+MzChangeAnime	0 1
+MzWaitChr	0
+MzAttentionChr	0
+MzWaitChr	0
+
+MzSetText	1	62	0	0	0 0
+MzWaitText
+MzSetText	1	63	0	3	0 0
+MzWaitText
+
+MzAttentionChr	1
+MzChangeAnime	1 9
+MzWaitChr	1
+
+MzSetText	1	64	1	0	0 0
+PlaySE	4
+MzEffectChr	1	5
+MzWaitText
+MzSetText	1	65	1	3	0 0
+MzWaitText
+
+MzExitChr	0
+MzWaitChr	0
+
+MzDeleteChr	1
+
+MzLoadChr	5	17
+
+MzEnterChr	0	5
+MzChangeAnime	0 1
+MzWaitChr	0
+MzAttentionChr	0
+MzWaitChr	0
+
+MzSetText	1	66	0	6	0 0
+MzWaitText
+
+MzAttentionChr	1
+MzChangeAnime	1 5
+MzWaitChr	1
+
+MzSetText	1	67	1	0	0 0
+MzEffectChr	1	1
+MzWaitText
+MzSetText	1	68	1	0	0 0
+MzChangeAnime	1 1
+MzWaitText
+
+MzAttentionChr	2
+MzChangeAnime	0 1
+MzWaitChr	2
+
+MzSetText	1	69	2	0	0 0
+MzEffectChr	1	7
+MzEffectChr	0	7
+MzWaitText
+MzEffectChr	1	-1
+MzEffectChr	0	-1
+
+MzAttentionChr	1
+MzWaitChr	1
+
+MzSetText	1	70	1	6	0 0
+MzWaitText
+
+MzAttentionChr	0
+MzWaitChr	0
+
+MzSetText	1	71	0	0	0 0
+MzWaitText
+
+MzAttentionChr	1
+MzWaitChr	1
+
+MzExitChr	2
+MzWaitChr	2
+
+MzDeleteChr	0
+
+MzDeleteChr	5
+
+MzLoadChr	2	6
+
+MzLoadChr	1	3
+
+MzEnterChr	1	2
+MzChangeAnime	1 1
+MzEnterChr	0	1
+MzChangeAnime	0 1
+MzWaitChr	1
+MzWaitChr	0
+
+MzAttentionChr	0
+MzWaitChr	0
+
+MzSetText	1	72	0	6	0 0
+MzWaitText
+
+MzAttentionChr	1
+MzWaitChr	1
+
+MzSetText	1	73	1	6	0 0
+MzWaitText
+
+MzExitChr	1
+MzWaitChr	1
+
+MzDeleteChr	2
+
+MzLoadChr	3	30
+
+MzEnterChr	1	3
+MzChangeAnime	1 2
+MzWaitChr	1
+MzAttentionChr	1
+MzWaitChr	1
+
+MzSetText	1	74	1	0	0 0
+MzWaitText
+
+MzExitChr	2
+MzWaitChr	2
+
+MzDeleteChr	3
+
+MzDeleteChr	1
+
+MzLoadChr	0	0
+MzLoadChr	5	17
+
+MzEnterChr	1	0
+MzChangeAnime	1 1
+MzEnterChr	0	5
+MzWaitChr	1
+MzWaitChr	0
+
+MzAttentionChr	1
+MzWaitChr	1
+
+MzSetText	1	75	1	0	0 0
+MzWaitText
+MzSetText	1	76	1	0	0 0
+MzChangeAnime	1 0
+MzWaitText
+
+MzAttentionChr	0
+MzWaitChr	0
+
+MzSetText	1	77	0	0	0 0
+MzWaitText
+
+MzAttentionChr	2
+MzChangeAnime	1 1
+MzChangeAnime	0 1
+MzWaitChr	2
+
+StopBGM	9	30
+
+MzSetText	1	78	2	0	0 0
+MzWaitText
+
+
+
+
+MzEffectBg	1	0	30	0
+MzWaitEffectAll 
+;
+
+ 

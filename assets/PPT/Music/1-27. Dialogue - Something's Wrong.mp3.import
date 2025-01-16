@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://d1foy2s1vet6u"
+path="res://.godot/imported/1-27. Dialogue - Something's Wrong.mp3-5c3ba0b4dd85079984379a69f2a02b2f.mp3str"
+
+[deps]
+
+source_file="res://assets/PPT/Music/1-27. Dialogue - Something's Wrong.mp3"
+dest_files=["res://.godot/imported/1-27. Dialogue - Something's Wrong.mp3-5c3ba0b4dd85079984379a69f2a02b2f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

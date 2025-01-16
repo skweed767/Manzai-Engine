@@ -1,0 +1,20 @@
+-----------------
+working commands-
+-----------------
+LoadBGM
+PlayBGM
+SetVolumeBGM
+SystemAbort (causes stage data to get replaced by other stage data)
+
+-------------------------
+commands that don't work-
+-------------------------
+LoadSE
+PlaySE
+MzLoadChr
+MzEnterChr
+MzLoadChr
+MzEnterChr
+MzExitChr
+MzExitChrOpp
+MzExitChrFall

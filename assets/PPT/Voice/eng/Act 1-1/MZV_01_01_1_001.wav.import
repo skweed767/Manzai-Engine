@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b0k7q8mi2igq0"
+path="res://.godot/imported/MZV_01_01_1_001.wav-2f3fc8bed3350dab658b1868351a1cfe.sample"
+
+[deps]
+
+source_file="res://assets/PPT/Voice/eng/Act 1-1/MZV_01_01_1_001.wav"
+dest_files=["res://.godot/imported/MZV_01_01_1_001.wav-2f3fc8bed3350dab658b1868351a1cfe.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mtx>
+  <sheet>
+    <text>
+      <speed value="3" />Ｗｅ　ｓｈａｌｌ　ｍｅｅｔ
+      ａｇａｉｎ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｗｅ　ｓｈａｌｌ　ｂｅ
+      ｒｅｕｎｉｔｅｄ！！<arrow />
+    </text>
+    <text>
+      <speed value="3" />　Ｒｅｔｒｅａｔ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｔｈｉｓ　ｉｓ　ｎｏｔ　ｎｏｒｍａｌト．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｏｈ，　<wait value="20" />ｗａｉｔト．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｉ　ｗｏｎｄｅｒ　ｉｆ　ｅｖｅｒｙｔｈｉｎｇ
+      ｉｓ　ｏｋａｙ　ｂａｃｋ　ｉｎ　ｏｕｒ
+      ｃｌａｓｓｒｏｏｍ．<arrow />
+    </text>
+    <text>
+      <speed value="4" />Ｏｈ．　Ｂｕｍｍｅｒ．<arrow />
+    </text>
+    <text>
+      <speed value="4" />　Ｅｈ．　Ｇｏｏｄ　ｇａｍｅ．<arrow />
+    </text>
+    <text>
+      <speed value="4" />Ｗｈｅｒｅ”ｓ　ｔｈｅ　ｇｙｍ？<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｉ　ｃａｎ　ｔａｋｅ　ｙｏｕ　ｔｈｅｒｅト．<wait value="30" />
+      Ｗｈｙ？<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ａｎｙｔｈｉｎｇ　ｙｏｕ　ｎｅｅｄ
+      ｆｒｏｍ　ｔｈｅｒｅ？<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｓｏｍｅｏｎｅ．<wait value="40" />
+      Ａ　ｆｒｉｅｎｄ　ｏｆ　ｍｉｎｅ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｏｋａｙ　ｔｈｅｎ，　ｆｏｌｌｏｗ　ｍｅト．<arrow />
+    </text>
+    <text>
+      <speed value="2" />Ｙｏｕ　ｈａｖｅｎ”ｔ　ｓｅｅｎ
+      ｔｈｅ　ｌａｓｔ　ｏｆ　ｕｓ！<arrow />
+    </text>
+    <text>
+      <speed value="2" />Ｔｈｉｓ　ｈａｓｎ”ｔ　ｂｅｅｎ
+      ｏｕｒ　ｆｉｎａｌ　ｍｅｅｔｉｎｇ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｒｅｔｒｅａｔ　ａｇａｉｎ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ａｎｄ　ａｗａｙ　ｔｈｅｙ　ｇｏト．<arrow />
+    </text>
+    <text>
+      <speed value="2" />Ｔｈｅｙ　ｌｏｏｋｅｄ　ｋｉｎｄａ　ｐａｌｅト．<wait value="20" />
+      Ａｈ，　ｒｉｇｈｔ．　Ｓｋｅｌｅｔｏｎｓ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />ト．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｏｈ？<wait value="40" />　Ｉ　ｃａｎ　ｈｅａｒ　ａ
+      ｓｅｌｆ‐ｃｏｎｇｒａｔｕｌａｔｉｎｇ
+      ｌａｕｇｈｔｅｒ　ｆｒｏｍ　ｔｈｅ
+      ｓｃｈｏｏｌｙａｒｄ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｗ‐Ｗｈａｔト．？！<wait value="40" />
+      Ｒ‐Ｒｅｍａｔｃｈ！<wait value="50" />　Ｔｈｉｓ　ｃａｎ”ｔ
+      ｐｏｓｓｉｂｌｙ　ｈａｖｅ　ｂｅｅｎ
+      ｒｉｇｈｔ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｈｍｐｈト．　Ｉ”ｌｌ　ａｄｍｉｔ，<wait value="20" />　
+      ｙｏｕ”ｒｅ　ｑｕｉｔｅ　ｓｋｉｌｌｅｄ．<wait value="40" />
+      Ａｌｒｉｇｈｔ，　ａｓｋ　ａｗａｙ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｉ”ｌｌ　ｋｅｅｐ　ｉｔ　ｓｈｏｒｔ：<wait value="35" />
+      Ｗｈｅｒｅ　ｄｉｄ　ｙｏｕ　ｃｏｍｅ　ｆｒｏｍ？<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｈｍｍト．　<wait value="70" />
+      Ｔｏ　ｂｅ　ｈｏｎｅｓｔ，<wait value="30" />
+      Ｉ　ｄｏｎ”ｔ　ｈａｖｅ　ｔｈｅ
+      ｓｌｉｇｈｔｅｓｔ　ｉｄｅａ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｗｈｙ”ｄ　Ｉ　ｅｖｅｎ　ｂｏｔｈｅｒ？！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｏｈ！　Ｉ　ｍａｙ　ｎｏｔ　ｋｎｏｗ，<wait value="20" />
+      ｂｕｔ　ｍａｙｂｅ　Ｆｅｌｉ　ｍｉｇｈｔ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｆａｙ‐ｌｅｅ？<wait value="20" />　Ｉｓ　ｔｈａｔ　ａ　ｎａｍｅ
+      ａｇａｉｎ？<wait value="30" />　Ａｎｏｔｈｅｒ　ｆｒｉｅｎｄ
+      ｏｆ　ｙｏｕｒｓ？<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｉ　ｓｕｐｐｏｓｅ．<wait value="20" />　Ｓｈｅ　ｉｓ　ａ　ｇｉｒｌ
+      ｓｋｉｌｌｅｄ　ａｔ　ｄｏｗｓｉｎｇ　ａｎｄ
+      ｏｃｃｕｌｔ　ｃｈａｒｍｓ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｇａｈ．　Ｔｈａｔ　ｓｏｕｎｄｓ
+      ｕｎｒｅｌｉａｂｌｅト．<wait value="30" />
+      ａｎｄ　ｕｎｓｃｉｅｎｔｉｆｉｃ　ｔｏｏト．<arrow />
+    </text>
+    <text>
+      <speed value="4" />Ａｈ．<wait value="20" />　Ｔｈｅｒｅ　ｓｈｅ　ｉｓ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｗｅｌｌ，　ｗｈａｔ　ｏｔｈｅｒ　ｏｐｔｉｏｎ　
+      ｄｏ　ｗｅ　ｈａｖｅ　ａｎｙｗａｙ？<wait value="20" />
+      Ｌｅｔ”ｓ　ｇｏ　ｔｈｅｎ！<arrow />
+    </text>
+    <text>
+      <speed value="2" />Ｉｆ　ｙｏｕ　ｄｏｎ”ｔ　ｍｉｎｄ，　ｔｈｅｎ　
+      ｐｌｅａｓｅ　ｃｏｍｅ　ａｌｏｎｇ　ｔｏｏ，
+      Ｒａｆｆｉｎａ！<arrow />
+    </text>
+    <text>
+      <speed value="5" />Ｔｈｅ　ｋｅｙ　ｔｏ　ｆａｔｅト．<wait value="73" />
+      ｉｓ　ａ　ｇｉｒｌト．<wait value="38" />　ｗｉｔｈ　ａ　ｈａｔト．<wait value="32" />
+      ｓｈａｐｅｄ　ｌｉｋｅ　ａ　ｒｅｄ　Ｐｕｙｏト．<wait value="30" /><arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｈｕｈ？<wait value="30" />　Ｙｏｕ　ｍｅａｎ　Ａｍｉｔｉｅ？<arrow />
+    </text>
+    <text>
+      <speed value="4" />Ｐｒｏｂａｂｌｙ　Ａｍｉｔｉｅ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｏｈ　ｄｅａｒ，<wait value="35" />　Ｉ”ｍ　ｎｏｔ　ｖｅｒｙ
+      ｇｏｏｄ　ｗｉｔｈ　ｎａｍｅｓ　ｔｏ
+      ｂｅｇｉｎ　ｗｉｔｈト．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｓｏｒｒｙ　ｆｏｒ　ａｓｋｉｎｇ　ｓｏ　ｍｕｃｈ，<wait value="30" />
+      ｂｕｔ　ｗｈｏ”ｓ　Ａｍｉ‐ｔｅｙ？<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ａ　ｆｒｉｅｎｄ　ｏｆ　Ｓｉｇ”ｓ．<wait value="40" />
+      Ａｌｗａｙｓ　ｗｅａｒｓ　ａ　ｒｅｄ
+      Ｐｕｙｏ　ｈａｔ．<arrow />
+    </text>
+    <text>
+      <speed value="4" />Ｉ　ｃａｎ　ｓｅｎｓｅ　ｈｅｒ<wait value="30" />
+      ｉｎ　ｔｈｅ　ｓｔｒｅｅｔｓト．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｙｏｕ　ｍｅａｎ　ｔｈｅ
+      ｓｈｏｐｐｉｎｇ　ｄｉｓｔｒｉｃｔ？<wait value="20" />
+      Ｒｉｇｈｔ，　Ｉ”ｌｌ　ｇｏ　ｔｈｅｒｅ．<wait value="10" />
+      Ｔｈａｎｋｓ，　ｅｖｅｒｙｏｎｅ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｔｈａｔ　ｈｉｔ　ｔｈｅ　ｓｐｏｔ！
+      Ｒｉｇｈｔ，　ｎｏｗ　Ｉ　ｒｅｍｅｍｂｅｒ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｔｈｅ　ｎａｍｅ”ｓ　Ａｍｉｔｉｅ！<arrow />
+    </text>
+    <text>
+      <speed value="2" />Ａｎｄ　ｍｙ　ｄｒｅａｍ　ｉｓ　ｔｏ
+      ｂｅｃｏｍｅ　ａ　ｗｏｎｄｅｒｆｕｌ
+      ｓｏｒｃｅｒｅｓｓ　ｏｎｅ　ｄａｙ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｕ‐Ｕｈｍ，　ｏｋａｙ．　Ｈｅｌｌｏ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｉ”ｍ　Ｒｉｎｇｏ　Ａｎｄｏ．<arrow />
+    </text>
+    <text>
+      <speed value="2" />Ａｎｄト．<wait value="30" />　ｔａｌｋｉｎｇ　ａｂｏｕｔ　ｍｙ
+      ｄｒｅａｍｓ　ｉｓ　ｋｉｎｄ　ｏｆ
+      ｅｍｂａｒｒａｓｓｉｎｇ　ｉｎ　ｆｒｏｎｔ
+      ｏｆ　ｓｏｍｅｏｎｅ　Ｉ　ｊｕｓｔ　ｍｅｔト．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｈｕｈ？　Ｅｍｂａｒａｓｓｉｎｇ？<wait value="20" />
+      Ｗｈｙ？<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｎｏｗ　ｙｏｕ”ｖｅ　ｇｏｔ　ｍｅ
+      ｃｕｒｉｏｕｓ！<wait value="40" />　Ｗｈａｔ　ｃｏｕｌｄ
+      Ｒｉｎｇｏ”ｓ　ｄｒｅａｍｓ　ｂｅト．<wait value="40" />
+      Ｍａｙｂｅ　ｓｏｍｅｔｈｉｎｇ　ｌｉｋｅ
+      ｔｈｉｓト．<arrow />
+    </text>
+    <text>
+      <speed value="3" />ト．Ｏｈ，　ｏｒ　ｓｏｍｅｔｈｉｎｇ
+      ｌｉｋｅ　ＴＨＡＴ！　Ｅｈｅｈｅｈト．<wait value="25" />
+      ト．Ｈｕｈ？！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｓｏｍｅｏｎｅ　ｓｃｒｅａｍｅｄ
+      ｊｕｓｔ　ｎｏｗ！<arrow />
+    </text>
+    <text>
+      <speed value="2" />Ｏｖｅｒ　ｔｈｅｒｅ！　Ｌｅｔ”ｓ　ｇｏ！<arrow />
+    </text>
+    <text>
+      <speed value="2" />Ｏｎｅ，　<wait value="20" />ｔｗｏ，　<wait value="20" />ｔｈｒｅｅ<wait value="20" />
+      ｔｉｍｅｓ　ｗｅ”ｖｅ　ｌｏｓｔト．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｏｈｗｅｅ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｓｕｃｈ　ｇｌｅｅ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｒｅｔｒｅａｔ　ｔｏ
+      ｄｒｉｎｋ　ｔｅａ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｔｈｏｓｅ　ｓｋｅｌｅｔｏｎｓ　ｓｕｒｅ
+      ａｒｅ　ｓｏｍｅｔｈｉｎｇ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｗｏｗ，<wait value="60" />　ｔｈａｎｋ　ｙｏｕ　ｓｏ
+      ｍｕｃｈ，<wait value="30" />　ｅｖｅｒｙｏｎｅ！　★<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｉ　ｗｏｎｄｅｒ　ｗｈａｔ”ｓ
+      ｔｈｅｉｒ　ｄｅａｌ．<arrow />
+    </text>
+    <text>
+      <speed value="2" />Ｔｈｅｙ”ｒｅ　ｊｕｓｔ　ｌｏｏｋｉｎｇ　ｆｏｒ
+      ｇｏｏｄ　ｔｅａト．　Ｉｔ”ｓ　ｊｕｓｔ　ａｓ
+      ｓｉｌｌｙ　ａｓ　ｉｔ　ｓｏｕｎｄｓ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｓｅｅｍｓ　ｔｈｅｙ”ｖｅ　ｇｏｎｅ　ｔｏ
+      ｌｏｏｋ　ｆｏｒ　ｉｔ　ａｔ　ｙｏｕｒ
+      ｈｏｕｓｅ　ｔｈｅｎ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｒｅａｌｌｙ？<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｉ”ｄ　ｂｅｔｔｅｒ　ｇｏ　ａｆｔｅｒ
+      ｔｈｅｍ，　ｔｈｅｎ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｓｅｅ　ｙｏｕ　ｌａｔｅｒ，<wait value="25" />　Ｍａｇｕｒｏ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ａｈ，<wait value="20" />　ｔｈａｔ　ｗａｓ　ｆｕｎ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />ト．Ｂｙ　ｔｈｅ　ｗａｙ，<arrow />
+    </text>
+    <text>
+      <speed value="2" />Ｂｙ　ｃｈａｎｃｅ，　ａｒｅ　ｙｏｕ
+      ｌｏｏｋｉｎｇ　ｉｎｔｏ　ｗｈａｔ”ｓ
+      ｂｅｅｎ　ｈａｐｐｅｎｉｎｇ　ｔｏｏ？<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｙｏｕ　ｍｅａｎ　ｔｈｅ　ｓｐａｃｅ　ｗａｒｐ
+      ｔｈｉｎｇｙ　ｏｖｅｒ　ｔｈｅ　ｓｃｈｏｏｌ？<arrow />
+    </text>
+    <text>
+      <speed value="2" />Ｙｅｓ，　ａｓ　ａ　ｍａｔｔｅｒ　ｏｆ
+      ｆａｃｔ，　ｗｅ　ａｒｅ．
+      Ｉｔ　ｊｕｓｔ　ｗｏｎ”ｔ　ｇｏ　ａｗａｙ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｉ”ｍ　ｎｏｔ　ｒｅａｌｌｙ　ｓｕｒｅ　
+      ｗｈａｔ　ｔｈｅ　ｃａｕｓｅ　ｉｓ
+      ｅｉｔｈｅｒト．<arrow />
+    </text>
+    <text>
+      <speed value="3" />ト．Ｂｕｔ　Ｉ　ｔｈｉｎｋ　ｓｏｍｅｂｏｄｙ
+      ｃａｕｓｅｄ　ｔｈｉｓ　ｏｎ　ｐｕｒｐｏｓｅ．<arrow />
+    </text>
+    <text>
+      <speed value="2" />Ｉ”ｌｌ　ｔａｇ　ａｌｏｎｇ　ｗｉｔｈ
+      ｙｏｕ　ｔｗｏ，　ｉｆ　ｙｏｕ　ｄｏｎ”ｔ
+      ｍｉｎｄ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｂｅｔｔｅｒ　ｔｈａｎ　ｓｔａｎｄｉｎｇ
+      ａｒｏｕｎｄ　ｉｄｌｙト．<arrow />
+    </text>
+    <text>
+      <speed value="2" />ト．Ｉｆ　ｔｈｉｎｇｓ　ｓｔａｙ　ｔｈｉｓ
+      ｗａｙ，　ｔｈｅ　ｏｔｈｅｒｓ　ａｎｄ　Ｉ
+      ｗｏｎ”ｔ　ｂｅ　ａｂｌｅ　ｔｏ　ｇｏ　ｂａｃｋ
+      ｔｏ　ｏｕｒ　ｏｗｎ　ｗｏｒｌｄ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｂｅｆｏｒｅ　ｙｏｕ　ｒｕｎ　ｏｆｆ　ａｇａｉｎ，
+      ｍａｙ　Ｉ　ａｓｋ　ｓｏｍｅｔｈｉｎｇ？<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ａｓｋ　ａｗａｙ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｉｔ”ｓ　ａｂｏｕｔ　ｗｈａｔ”ｓ　ｂｅｅｎ
+      ｇｏｉｎｇ　ｏｎト．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｔｈｅ　ｍｙｓｔｅｒｉｏｕｓ　ｓｐａｃｅ
+      ｗａｒｐ　ｔｈｉｎｇ　ｕｐ　ｉｎ　ｔｈｅ
+      ｓｋｙ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｄｉｄ　ｙｏｕ　ｃａｕｓｅ　ｉｔ？<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ａｂｓｏｌｕｔｅｌｙ　ｎｏｔ！！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｗｅ　ｄｏｎ”ｔ　ｋｎｏｗ　ｗｈａｔ
+      ｙｏｕ”ｒｅ　ｂａｂｂｌｉｎｇ　ａｂｏｕｔ！
+      Ａｎｄ　ｗｅ”ｒｅ　ｂｕｓｙ！
+      Ｎｏｗ　ｅｘｃｕｓｅ　ｕｓ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｓｏ　ｍｕｃｈ　ｆｏｒ　ｔｈａｔ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｈｍｍ？<arrow />
+    </text>
+    <text>
+      <speed value="4" />Ｉ　ｈｅａｒｄ　ａ　ｆａｍｉｌｉａｒ　ｖｏｉｃｅ
+      ｆｒｏｍ　ｏｖｅｒ　ｔｈｅｒｅ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｌｅｔ”ｓ　ｇｏ　ｔｈｅｎ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｐｈｅｗト．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ａｌｒｉｇｈｔ，　ｍａｔｃｈ”ｓ　ｏｖｅｒ！
+      Ｎｏｗ　ｐｌｅａｓｅ　ｇｅｔ　ｔｏ　ｔｈｅ
+      ｐｏｉｎｔ　ａｌｒｅａｄｙ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ａｈｅｍ！<wait value="40" />　Ａｈｅｅｅｍ！<wait value="80" />
+      Ｗｅｌｌ，　ｙｏｕ　ｓｅｅ！<arrow />
+    </text>
+    <text>
+      <speed value="4" />Ｉｔ　ｉｓ　ａ　ｓｉｍｐｌｅ　ｍａｔｔｅｒ
+      ｏｆ　ｒｅｓｏｎａｔｉｎｇ　ｔｈｅ　ｐｏｗｅｒ
+      ｏｆ　ｕｓ　ｍａｇｅｓト．<arrow />
+    </text>
+    <text>
+      <speed value="4" />ト．ｗｉｔｈ　ｔｈｅ　ｐｏｗｅｒ
+      ｔｈａｔ　ｂｅｌｏｎｇｓ　ｔｏ　ｔｈｉｓ
+      ｐｌａｎｅｔ，<wait value="10" />　ｔｈｅ　Ｅａｒｔｈ！<wait value="45" /><speed value="3" />
+      Ｔｈｅ　ｒｅｓｕｌｔ　ｗｉｌｌ　ｂｅ　ａ
+      ｒｅｌｅａｓｅ　ｏｆ　ｔｒｅｍｅｎｄｏｕｓ
+      ｍａｇｉｃａｌ　ｐｏｗｅｒ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｕｈ‐ｈｕｈ．<arrow />
+    </text>
+    <text>
+      <speed value="4" />Ｕｓｉｎｇ　ｔｈｅ　ｅｎｅｒｇｙ　ｔｈｉｓ
+      ｒｅｓｏｎａｎｃｅ　ｗｉｌｌ　ｐｒｏｄｕｃｅト．<arrow />
+    </text>
+    <text>
+      <speed value="4" />ト．ｗｅ　ｃａｎ　ａｌｌ　ｒｅｔｕｒｎ
+      ｔｏ　ｏｕｒ　ｏｗｎ　ｗｏｒｌｄト．<arrow />
+    </text>
+    <text>
+      <speed value="4" />ト．ａｎｄ　ｅｌｉｍｉｎａｔｅ　ｔｈｅ
+      ｆａｌｌｉｎｇ　Ｐｕｙｏ　ｏｖｅｒ　ｈｅｒｅト．<arrow />
+    </text>
+    <text>
+      <speed value="4" />ト．ａｎｄ　ｔｈｅ　ｓｐａｃｅ　ｗａｒｐ　
+      ａｎｏｍａｌｙト．<arrow />
+    </text>
+    <text>
+      <speed value="3" />ト．ｓｈｏｕｌｄ　ｄｉｓａｐｐｅａｒ，
+      ｊｕｓｔ　ｌｉｋｅ　ｔｈａｔ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｗｏｗ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ａｌｌ　ｉｎ　ｏｎｅ　ｓｈｏｔ？
+      Ｔｈｅ　ｗｈｏｌｅ　ｔｈｉｎｇ　ｓｅｅｍｓト．
+      ｔｏｏ　ｅａｓｙ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />ト．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｊｕｓｔ　ｔｒｕｓｔ　ｍｙ
+      ｃａｌｃｕｌａｔｉｏｎｓ！<arrow />
+    </text>
+    <text>
+      <speed value="2" />＊ｍｕｔｔｅｒｉｎｇ＊　<speed value="3" />Ｅｖｅｎ　ｔｈｏｕｇｈ，
+      ｍｏｓｔ　ｏｆ　ｔｈｉｓ　ｉｓ　ｓｔｕｆｆ
+      Ｉ　ｈｅａｒｄ　ｆｒｏｍ　Ａｒｌｅト．<arrow />
+    </text>
+    <text>
+      <speed value="2" />あＷａｉｔ，　ｂｅｆｏｒｅ　ｙｏｕ　ｇｏ！
+      　Ｌｅｔ　ｍｅ　ｅｌａｂｏｒａｔｅ　ｆｕｒｔｈｅｒ
+      　ｏｎ　ｍｙ　ｒｅａｓｏｎｉｎｇ！<arrow />
+    </text>
+    <text>
+      <speed value="2" />あＴｈｅｒｅ　ａｒｅ　ｍａｎｙ　ｄｅｔａｉｌｓ
+      　Ｉ　ｈａｖｅｎ”ｔ　ｍｅｎｔｉｏｎｅｄ　ｙｅｔ！
+      　Ｌｅｔ　ｍｅ　ｂｅｇｉｎ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｎｏ　ｗａｙ！！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｎｏｔ　ｏｎｌｙ　ｄｉｄ　Ｉ　ｌｏｓｅ，<wait value="20" />
+      ｂｕｔト．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｙｏｕ”ｒｅ　ｔｅｌｌｉｎｇ　ｍｅ
+      ｔｈｅｒｅ”ｓ　ｎｏ　ｂｅａｕｔｙ
+      ｃｏｎｔｅｓｔ　ｈｅｒｅ？<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｐｒｏｂａｂｌｙ　ｎｏｔ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｉ　ｓｅｅト．<wait value="35" />　Ｔｈａｎｋｓ　ｆｏｒ
+      ｌｅｔｔｉｎｇ　ｍｅ　ｋｎｏｗ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｓｅｒｉｏｕｓｌｙ，　ｔｈｏｕｇｈ！
+      Ｉ　ｃａｎ”ｔ　ｂｅｌｉｅｖｅ　Ａｒｌｅ
+      ｊｕｓｔ　ｔｒｉｃｋｅｄ　ｍｅ　ｌｉｋｅ
+      ｔｈａｔ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｒａｗｒ！！<wait value="83" />
+      <speed value="3" />Ｗｈｅｎ　Ｉ　ｆｉｎｄ　ｈｅｒト．！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｔｈｅｒｅ　ｓｈｅ　ｇｏｅｓト．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｍａｙｂｅ　Ｉ　ｓｈｏｕｌｄｎ”ｔ　ｈａｖｅ
+      ｔｏｌｄ　ｈｅｒ，　ｔｈｏｕｇｈト．<arrow />
+    </text>
+    <text>
+      <speed value="2" />Ａｗ，　ｉｔ”ｓ　ｇｏｎｎａ
+      ｂｅ　ｆｉｎｅ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｏｎ　ｔｏ　ｔｈｅ　ｎｅｘｔ　ｓｐｏｔ！<arrow />
+    </text>
+    <text>
+      <speed value="4" />Ｃｏｎｆｏｕｎｄ　ｉｔト．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｄｏｎ”ｔ　ｂｅ　ｓｏ　ｄｉｓｃｏｕｒａｇｅｄ，<wait value="30" />
+      Ｓｉｒ　Ｐｅｒｖｅｒｔ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｙｏｕ　ｃａｎ　ｈａｖｅ　ｓｏｍｅ　ｏｆ
+      ｍｙ　ｌｕｎｃｈ，　ｈｅｒｅ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｙｏｕｒ　ａｉｄ　ｉｓ　ａｐｐｒｅｃｉａｔｅｄ．<wait value="80" />
+      Ｔｈａｎｋ　ｙｏｕト．<arrow />
+    </text>
+    <text>
+      <speed value="2" />ト．Ｗａｉｔ，　ｎｏ．
+      Ｍｏｒｅ　ｉｍｐｏｒｔａｎｔｌｙ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｉ　ｔｏｌｄ　ｙｏｕ　ｔｏ　ｓｔｏｐ　
+      ｃａｌｌｉｎｇ　ｍｅ　ａ　ｐｅｒｖｅｒｔ！！！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ａｎｄ　ｈｅ　ｌｅｆｔト．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｉ　ｄｏｎ”ｔ　ｋｎｏｗ　ｗｈａｔ　ｔｈａｔ
+      ｗａｓ　ａｌｌ　ａｂｏｕｔト．<arrow />
+    </text>
+    <text>
+      <speed value="2" />Ｂｕｔ　ｗｅ”ｒｅ　ｄｏｎｅ　ｈｅｒｅ！
+      Ｍｉｓｓｉｏｎ　ｃｏｍｐｌｅｔｅ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｎｅｘｔ　ｓｔｏｐ：
+      <wait value="20" />Ｔｈｅ　ｎｅｘｔ　ｓｐｏｔ！<arrow />
+    </text>
+    <text>
+      <speed value="4" />Ｈｅｈｅｈｅｈｅｈｅト．<wait value="10" /><arrow />
+    </text>
+    <text>
+      <speed value="4" />Ｔｈａｔ　ｍａｋｅｓ　ｔｗｏト．<wait value="20" /><arrow />
+    </text>
+    <text>
+      <speed value="3" />Ａｗ　ｍａｎ！<wait value="70" />　Ｙｏｕ　ｂｅａｔ　ｍｅ！<arrow />
+    </text>
+    <text>
+      <speed value="4" />Ａｌｌｏｗ　ｍｅ　ｔｏ　ｅｘｐｒｅｓｓ
+      ｍｙ　ｄｅｐｒｅｓｓｉｏｎ　ｗｉｔｈ
+      ａ　ｄａｎｃｅ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｔｈａｎｋｓ，<wait value="20" />　ｂｕｔ　ｎｏ
+      ｎｅｅｄ　ｆｏｒ　ｔｈａｔ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｏｋａｙ，　ｏｆｆ　ｔｏ　ｔｈｅ　ｎｅｘｔ
+      ｓｐｏｔ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｍｉｎｄ　ｉｆ　Ｉ　ｊｏｉｎ　ｙｏｕｒ
+      ｌｉｔｔｌｅ　ｐａｒｔｙ？<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｉ　ｃａｍｅ　ｈｅｒｅ　ｗｉｔｈ　Ａｒｌｅト．<arrow />
+    </text>
+    <text>
+      <speed value="4" />Ｂｕｔ　ｗｅ　ｇｏｔ　ｓｅｐａｒａｔｅｄ，
+      ａｎｄ　ｎｏｗ　Ｉ”ｍ　ｐｒｅｔｔｙ　ｌｏｓｔ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｎｏ　ｐｒｏｂｌｅｍ，<wait value="30" />
+      ｌｅｔ”ｓ　ｇｏ　ｔｏｇｅｔｈｅｒ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｉ　ｏｗｅ　ｙａ！　<wait value="35" /><speed value="2" />Ｔｈａｎｋｓ　ｆｏｒ　
+      ｎｏｔ　ｌｅａｖｉｎｇ　ｍｅ　ａ　ｆｉｓｈ
+      ｏｕｔｔａ　ｗａｔｅｒ！<wait value="30" />
+      Ｙｏｕ”ｒｅ　ａ　ｇｒｏｏｖｙ　ｇｉｒｌ！<arrow />
+    </text>
+    <text>
+      <speed value="4" />Ｈｅｈｅｈｅｈｅト．<wait value="10" /><arrow />
+    </text>
+    <text>
+      <speed value="4" />Ｔｈａｔ　ｍａｋｅｓ　ｔｈｒｅｅト．<wait value="20" /><arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｗｅｌｌ，　ｔｈａｔ　ｗａｓ
+      ｆｕｎ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｏｈｏｈｏｈｏｈｏｈｏ！<wait value="5" /><arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｓｈｅ　ｌｅｆｔト．<arrow />
+    </text>
+    <text>
+      <speed value="2" />Ｇｕｅｓｓ　ｔｈａｔ”ｓ　ａｎｏｔｈｅｒ
+      ｐａｒｔ　ｏｆ　ｔｈｅ　ｍｉｓｓｉｏｎ
+      ｃｏｍｐｌｅｔｅ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ａｌｒｉｇｈｔ，
+      ｗｅ　ｍｏｖｉｎｇ　ｏｎ？<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｙｅａｈ，
+      ｌｅｔ”ｓ　ｇｅｔ　ｇｏｉｎ”．<arrow />
+    </text>
+    <text>
+      <speed value="4" />Ｈｅｈｅｈｅｈｅｈｅト．<wait value="10" /><arrow />
+    </text>
+    <text>
+      <speed value="4" />あＪｕｓｔ　ａ　ｂｉｔ　ｍｏｒｅ，<wait value="40" />
+      　ｊｕｓｔ　ａ　ｌｉｔｔｌｅ　ｂｉｔ　ｍｏｒｅト．<wait value="10" /><arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｔｈｅｒｅ，<wait value="5" />　Ｉ”ｖｅ　ｄｏｎｅ　
+      ａｓ　ａｓｋｅｄ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｊｕｓｔ　ｗｈａｔ”ｓ　ｔｈｉｓ
+      ｒｉｔｅ　ｆｏｒ？<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｐａｒｄｏｎ？<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ａｒｌｙ，　ｍｙ　ｄｅａｒｅｓｔ　ｗｉｆ‐<wait value="20" />
+      Ｅｒ，<wait value="10" />　ｒａｔｈｅｒ，<wait value="20" />　ｍｙ　ｆｉａｎｃソｅ，<wait value="20" />
+      ａｓｋｅｄ　ｍｅ　ｔｏ　ｄｏ　ｔｈｉｓ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｂｕｔ　Ｉ　ｈａｖｅ　ｙｅｔ　ｔｏ　ｓｅｅ
+      ｔｈｅ　ｐｏｉｎｔ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ａｒｌｅ　ａｇａｉｎ？！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｗａｉｔ，　Ａｒｌｅ　ａｓｋｅｄ　ｙｏｕ　ｔｏ
+      ｂａｔｔｌｅ　ｕｓ？<wait value="10" />
+      <speed value="4" />ト．Ａｎｄ　ｓｈｅ”ｓ　ｙｏｕｒ
+      ホｆｅｅ‐ｏｎ‐ｓａｙホ，　ｔｏｏ？！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｗｈａｔｅｖｅｒ．<wait value="40" />
+      Ｉ”ｖｅ　ｋｅｐｔ　ｍｙ　ｗｏｒｄ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｊｕｓｔ　ｗｈａｔ　ｉｓ　Ａｒｌｅ　ｕｐ
+      ｔｏト．？<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｊｕｓｔ　ｗｈａｔ　ｉｓ　Ａｒｌｅ
+      ｕｐ　ｔｏト．？<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｈｕｈ？<wait value="30" />　Ｗｈｅｒｅ”ｄ　ｔｈｅ
+      ｌｉｔｔｌｅ　ｇｕｙ　ｇｏ？<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｈｅ”ｓ　ｇｏｎｅ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｗｅ　ｂｅｔｔｅｒ　ｆａｌｌ　ｂａｃｋ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｒｅｔｒｅａｔ！<arrow />
+    </text>
+    <text>
+      <speed value="4" />Ｈｅｈｅｈｅｈｅト．<wait value="10" /><arrow />
+    </text>
+    <text>
+      <speed value="4" />Ｄｉｄ　ｙｏｕ　ｈａｖｅ　ｆｕｎ，<wait value="20" />
+      Ｃａｒｂｙト．？<arrow />
+    </text>
+    <text>
+      <speed value="4" />Ｈｅｈｅｈｅｈｅｈｅｈト．<wait value="10" /><arrow />
+    </text>
+    <text>
+      <wait value="4" />Ａｎｄ　ｎｏｗ　ｔｈａｔ　ｗｅ”ｖｅ
+      Ｐｕｙｏ　Ｂａｔｔｌｅｄト．<arrow />
+    </text>
+    <text>
+      <speed value="4" />ト．ｈｅｒｅ，<wait value="20" />　ａｔ　ｔｈｅ　ｆｉｎａｌ
+      ｓｐｏｔ，　ｆｏｒ　ｔｈｅ　７ｔｈ　ｔｉｍｅト．<wait value="10" /><arrow />
+    </text>
+    <text>
+      <speed value="4" />Ａｌｌ　ｃｏｎｄｉｔｉｏｎｓ　ｈａｖｅ　ｂｅｅｎ
+      ｍｅｔ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｈｕｈ？<wait value="5" />　Ｗａｉｔト．<wait value="20" />
+      Ｗｈａｔ　ａｒｅ　ｙｏｕ　ｔａｌｋｉｎｇ
+      ａｂｏｕｔ？！<arrow />
+    </text>
+    <text>
+      <speed value="4" />Ａｎｄ　ｎｏｗ，　ｍｙ　ｓｐａｃｅ　ｗａｒｐ
+      ｔｈｉｎｇｙト．<arrow />
+    </text>
+    <text>
+      <speed value="4" />ト．ｗｉｌｌ　ｂｅｇｉｎ　ｔｏ　ｇｒｏｗ　ａｎｄ
+      ｇｒｏｗト．<arrow />
+    </text>
+    <text>
+      <speed value="4" />Ａｎｄ　ｓｐｉｔ　ｏｕｔ　Ｐｕｙｏ　ｕｎｔｉｌ
+      ｔｈｅ　ｅｎｔｉｒｅ　Ｅａｒｔｈ　ｉｓ
+      ｂｕｒｉｅｄト．<arrow />
+    </text>
+    <text>
+      <speed value="4" />あト．ｉｎ　ａ　ｍａｓｓｉｖｅ　Ｐｕｙｏ　ｒａｉｎ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />ＷＨＡＴ　ＴＨＥ？！<arrow />
+    </text>
+    <text>
+      <speed value="2" />Ｇｅｔ　ｒｅａｌ，<wait value="5" />　ｔｈａｔ”ｓ　ｎｏｔ
+      ｗｈａｔ　ｗｅ　ｈｅａｒｄ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ａｒｌｅ？！<wait value="20" />
+      Ｗｈｙ　ｗｏｕｌｄ”ｃｈａ　ｄｏ　ｔｈｉｓ？！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｈｅｈｅ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｏｈ　ｎｏ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｔｈｅ　ｎｉｇｈｔｓｋｙ　ｇｏｔ
+      ｄａｙｌｉｇｈｔ‐ｂｒｉｇｈｔ　ａｌｌ　ｏｆ　
+      ａ　ｓｕｄｄｅｎ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｅｅｅｅｅｅｋ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｈｏｌｙ　ｍａｃｋｅｒｅｌ！<wait value="30" />
+      Ｉ　ａｉｎ”ｔ　ｌｉｋｉｎ”　ｗｈｅｒｅ
+      ｔｈｉｓ　ｉｓ　ｇｏｉｎｇ　ａｔ　ａｌｌ！<arrow />
+    </text>
+    <text>
+      <speed value="4" />Ｈｅｈｅｈｅｈｅｈｅｈト．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ａｒｅ　ｙｏｕ　ｏｋａｙ，<wait value="30" />　Ｍａｇｕｒｏ？<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｗｈｅｗ，<wait value="30" />　ｔｈａｔ　ｗａｓ　ｗｅｉｒｄ，<wait value="60" />
+      ｈｕｈト．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｅｎｏｕｇｈ　ｄａｗｄｌｉｎｇ！<wait value="30" />
+      Ｃｏｍｅ，　Ｒｉｎｇｏ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｗａｉｔ，<wait value="20" />　Ｉ”ｍ　ｃｏｍｉｎｇ　ｗｉｔｈ
+      ｙｏｕ！　★<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｒｉｓ，<wait value="40" />　ａｒｅ　ｙｏｕ　ａｌｌ　ｒｉｇｈｔ？<arrow />
+    </text>
+    <text>
+      <speed value="4" />Ｙｅｓ，　ａｆｔｅｒ　ｔｈａｔ　ｆｉｇｈｔ．<arrow />
+    </text>
+    <text>
+      <speed value="4" />Ｔｈａｔ　ｗａｓ　ｑｕｉｔｅ　ａ　ｓｉｇｈｔ．<arrow />
+    </text>
+    <text>
+      <speed value="4" />Ｂｅ　ｔｈａｔ　ａｓ　ｉｔ　ｍｉｇｈｔ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />ト．‐ｉｇｈｔト．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｇｏ　ｆｌｙ　ａ　ｋｉｔｅ！<arrow />
+    </text>
+    <text>
+      <speed value="2" />Ｅｎｏｕｇｈ　ｆｏｏｌｉｎｇ　ａｒｏｕｎｄ！
+      Ｃｏｍｅ　ｏｎ　ａｌｒｅａｄｙ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｏｈ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ａｒｌｅ　ｉｓ　ｆｉｎａｌｌｙ　ｂａｃｋ
+      ｔｏ　ｎｏｒｍａｌ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />ト．Ｉ　ｔｈｉｎｋ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｏｕｃｈｉｅ，　ｏｕｃｈｉｅ，
+      ｏｕｃｈト．<arrow />
+    </text>
+    <text>
+      <speed value="2" />Ａｒｅ　ｙｏｕ　ａｌｒｉｇｈｔ，<wait value="20" />　Ａｒｌｙ？<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｊｕｓｔ　ａ　ｌｉｔｔｌｅ　ｄｉｚｚｙト．<wait value="50" />
+      Ｂｕｔ　Ｉ”ｍ　ｆｉｎｅ　ｎｏｗ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｍｙ　Ａｒｌｙ　ｉｓ　ｂａｃｋ！！<wait value="10" />
+      Ｔｈａｎｋ　ｔｈｅ　ｓｔａｒｓ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｂｕｔ，　ｈｅｙト．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｗｈａｔ　ａｂｏｕｔ　ｔｈｅ　ｌｉｔｔｌｅ
+      ｙｅｌｌｏｗ　ｇｕｙ？<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｗａｓｎ”ｔ　ｉｔ　ｐｏｓｓｅｓｓｅｄ　ｔｏｏ？<wait value="25" />
+      Ｏｒ，　ｗａｉｔ，　ｌｅｍｍｅ　ｇｕｅｓｓト．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｙｅｐ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｃａｒｂｙ”ｓ　ｆｉｎｅ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｉ　ｔｈｉｎｋ　ｈｅ　ｗａｓ　ｊｕｓｔ
+      ｅｎｊｏｙｉｎｇ　ｇｅｔｔｉｎｇ　ｉｎ　ｏｎ
+      ｔｈｅ　ホｅｖｉｌ　ｓｏｒｃｅｒｅｓｓホ　ａｃｔ
+      ｗｉｔｈ　ｍｅ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｗｈｏａａａ，<wait value="20" />　ｔｈａｔ　ｇｏｔ
+      ｏｕｔ　ｏｆ　ｈａｎｄト．！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｈｕｈ！<arrow />
+    </text>
+    <text>
+      <speed value="2" />Ｉｓ　ｔｈａｔ　ｗｈａｔ　ｉｔ　ｒｅａｌｌｙ
+      ｌｏｏｋｓ　ｌｉｋｅ？！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｏｈ，　ｈｅｙ，　Ｒｉｎｇｏ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｉ　ｗａｎｎａ　ｐｌａｙ　ｗｉｔｈ　ｙｏｕｒ
+      ｂｏｄｙ　ｎｅｘｔ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｙｏｕ　ｓｅｅｍ　ｗａａａｙ　ｍｏｒｅ　ｆｕｎ
+      ｔｈａｎ　Ａｒｌｅ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />ＡＲＧＨ！<arrow />
+    </text>
+    <text>
+      <speed value="4" />Ｎｏｏｏｏｏ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />　Ｉ　ｌｏｓｔ？！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｔａｋｅ　ｔｈａｔ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｙｏｕ”ｖｅ　ｌｅｆｔ　ｍｅ
+      ｎｏ　ｃｈｏｉｃｅト．<arrow />
+    </text>
+    <text>
+      <speed value="2" />Ａｗ，　ｗｈａｔ　ａ　ｗａｓｔｅト．<wait value="15" />
+      Ｂｕｔ　Ｉ　ｇｕｅｓｓ　Ｉ　ｊｕｓｔ
+      ｇｏｔｔａ　ｂｒｅａｋ　ｔｈｉｓ
+      ｗｈｏｌｅ　ｓｐａｃｅ　ｄｏｗｎ
+      ｗｉｔｈ　ｙｏｕ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｔｈａｔ”ｌｌ　ｐｒｏｄｕｃｅ　ｍｏｒｅ
+      ｔｈａｎ　ｅｎｏｕｇｈ　ｅｎｅｒｇｙ　ｔｏ
+      ｄｏ　ｗｈａｔ　Ｉ　ｗａｎｔ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ａｎｄ　ｔｈｅｎ　Ｉ”ｍ　ｇｏｎｎａ　ｂｕｒｙ
+      ａｌｌ　ｗｏｒｌｄｓ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />　Ａｌｌ　ｕｎｉｖｅｒｓｅｓ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ａｎｄ　ｅｖｅｒｙｂｏｄｙ　ｉｎ　ｔｈｅｍ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｙｏｕ”ｒｅ　ａｌｌ　ｇｏｎｎａ　ｄｒｏｗｎ
+      ｉｎ　Ｐｕｙｏ！！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｗｈａｔ　ｔｈｅ　ｆａｃｔｏｒ？！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｔｈｉｓ　ｉｓ　ｇｏｎｎａ　ｂｅ
+      ｓｏ　ｆｕｎ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｓｉｔ　ｄｏｗｎ　ａｎｄ　ｅｎｊｏｙ　ｔｈｅ
+      ｓｈｏｗ，　Ｒｉｎｇｏ．<arrow />
+    </text>
+    <text>
+      <wait value="20" /><speed value="3" />　”Ｃｕｚ，　ｙｏｕ　ｋｎｏｗ．<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｙｏｕ　ｃａｎ”ｔ　ｄｏ　ａｎｙｔｈｉｎｇ
+      ｔｏ　ｓｔｏｐ　ｍｅ　ａｎｙｗａｙ，
+      ａｌｌ　ｏｎ　ｙｏｕｒ　ｏｗｎ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｎｏト．<wait value="50" /><arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｎｏト．<wait value="120" />！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｎｏｏｏｏｏｏ！！！<wait value="15" /><arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｏｈｈｈ　ｎｏｏｏｏト．　Ｉ　ａｍ
+      ｓｏ　ｖｅｒｙ，　ｖｅｒｙト．<arrow />
+    </text>
+    <text>
+      <wait value="30" /><speed value="3" />ト．ｄｅｆｅａｔｅｄ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｐｒｏｂｌｅｍ　ｓｏｌｖｅｄ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｈｏｏｒａｙ！<arrow />
+    </text>
+    <text>
+      <speed value="3" />Ｗｅ　ｄｉｄ　ｉｔ！<arrow />
+    </text>
+  </sheet>
+</mtx>

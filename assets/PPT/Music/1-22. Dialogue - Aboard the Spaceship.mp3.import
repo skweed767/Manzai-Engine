@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cv5nu2v856s5d"
+path="res://.godot/imported/1-22. Dialogue - Aboard the Spaceship.mp3-992a2ace5bb1ffa6b950e9181292387f.mp3str"
+
+[deps]
+
+source_file="res://assets/PPT/Music/1-22. Dialogue - Aboard the Spaceship.mp3"
+dest_files=["res://.godot/imported/1-22. Dialogue - Aboard the Spaceship.mp3-992a2ace5bb1ffa6b950e9181292387f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
