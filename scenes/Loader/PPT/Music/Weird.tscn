@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://b4i1cmetdq0xa"]
+
+[ext_resource type="AudioStream" uid="uid://d18mlfofjbiu" path="res://assets/PPT/Music/1-25. Dialogue - Sorta Weird.mp3" id="1_fmlnw"]
+
+[node name="Weird" type="AudioStreamPlayer"]
+stream = ExtResource("1_fmlnw")
+parameters/looping = true

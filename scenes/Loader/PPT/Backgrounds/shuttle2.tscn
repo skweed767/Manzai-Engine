@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://coxr4u1rgmxnx"]
+
+[ext_resource type="Texture2D" uid="uid://dw37id5redvkx" path="res://assets/PPT/Backgrounds/shuttle2.png" id="1_a4jf4"]
+
+[node name="Sprite2D" type="Sprite2D"]
+position = Vector2(639.5, 359)
+scale = Vector2(0.667188, 0.669759)
+texture = ExtResource("1_a4jf4")

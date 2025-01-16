@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://c6sq7x7r5fm17"]
+
+[ext_resource type="AudioStream" uid="uid://bdcdgowgbruc5" path="res://assets/PPT/Music/1-26. Dialogue - Hunky-Dory Beat!.mp3" id="1_puold"]
+
+[node name="hunkydory" type="AudioStreamPlayer"]
+stream = ExtResource("1_puold")
+parameters/looping = true

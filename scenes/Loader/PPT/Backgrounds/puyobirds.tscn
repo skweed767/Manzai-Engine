@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://r62nfnjl7noj"]
+
+[ext_resource type="Texture2D" uid="uid://c373vksuk4rmx" path="res://assets/PPT/Backgrounds/puyobirds.png" id="1_r2pnj"]
+
+[node name="Sprite2D" type="Sprite2D"]
+position = Vector2(640.388, 359.5)
+scale = Vector2(0.753654, 0.756558)
+texture = ExtResource("1_r2pnj")

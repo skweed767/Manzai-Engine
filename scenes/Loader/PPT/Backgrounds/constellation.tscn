@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://fky53c0tb3i3"]
+
+[ext_resource type="Texture2D" uid="uid://cfai72r0xmw1w" path="res://assets/PPT/Backgrounds/constellation.png" id="1_qqqfe"]
+
+[node name="Sprite2D" type="Sprite2D"]
+position = Vector2(639.5, 359)
+scale = Vector2(0.667188, 0.669759)
+texture = ExtResource("1_qqqfe")

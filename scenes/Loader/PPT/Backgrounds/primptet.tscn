@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bgx5v7x0tshon"]
+
+[ext_resource type="Texture2D" uid="uid://c7t1pu7v7epok" path="res://assets/PPT/Backgrounds/primptet.png" id="1_4pvgw"]
+
+[node name="Sprite2D" type="Sprite2D"]
+position = Vector2(639.5, 359)
+scale = Vector2(0.667188, 0.669759)
+texture = ExtResource("1_4pvgw")

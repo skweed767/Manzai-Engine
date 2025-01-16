@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://uovbksabdp0b"]
+
+[ext_resource type="AudioStream" uid="uid://jcosufg01p26" path="res://assets/PPT/Music/1-28. Dialogue - Even if I'm Lonely....mp3" id="1_snveo"]
+
+[node name="Lonely" type="AudioStreamPlayer"]
+stream = ExtResource("1_snveo")
+parameters/looping = true

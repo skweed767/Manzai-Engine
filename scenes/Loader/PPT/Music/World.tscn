@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://bp38pweso4obr"]
+
+[ext_resource type="AudioStream" uid="uid://cfwuxbrp64mvg" path="res://assets/PPT/Music/1-24. Dialogue - Each and Every World.mp3" id="2_8p18k"]
+
+[node name="World" type="AudioStreamPlayer"]
+stream = ExtResource("2_8p18k")
+parameters/looping = true

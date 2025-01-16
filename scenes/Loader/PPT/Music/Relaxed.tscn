@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://ksypfgdufi3u"]
+
+[ext_resource type="AudioStream" uid="uid://d1rxy27lf5kb" path="res://assets/PPT/Music/1-23. Dialogue - Relaxed and High-Spirited.mp3" id="1_4p1yr"]
+
+[node name="Relaxed" type="AudioStreamPlayer"]
+stream = ExtResource("1_4p1yr")
+parameters/looping = true

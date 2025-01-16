@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://dphuc5a4rflc5"]
+
+[ext_resource type="Texture2D" uid="uid://c5ho4emdq77jh" path="res://assets/PPT/Backgrounds/memory.png" id="1_sqw2i"]
+
+[node name="Sprite2D" type="Sprite2D"]
+position = Vector2(639.5, 359)
+scale = Vector2(0.667188, 0.669759)
+texture = ExtResource("1_sqw2i")

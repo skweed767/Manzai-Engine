@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://bq15rh4l06tv3"]
+
+[ext_resource type="AudioStream" uid="uid://d1foy2s1vet6u" path="res://assets/PPT/Music/1-27. Dialogue - Something's Wrong.mp3" id="1_vca4y"]
+
+[node name="Wrong" type="AudioStreamPlayer"]
+stream = ExtResource("1_vca4y")
+parameters/looping = true

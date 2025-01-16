@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://p2awsx2t0t43"]
+
+[ext_resource type="AudioStream" uid="uid://bqglc2nlo2jes" path="res://assets/PPT/Music/1-29. Dialogue - You're On!.mp3" id="1_3ce3c"]
+
+[node name="On" type="AudioStreamPlayer"]
+stream = ExtResource("1_3ce3c")
+parameters/looping = true

@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://oilnaqhdrje"]
+
+[ext_resource type="Texture2D" uid="uid://bl1ihlsp2ssjq" path="res://assets/PPT/Backgrounds/playroom.png" id="1_ahpdg"]
+
+[node name="Sprite2D" type="Sprite2D"]
+position = Vector2(641, 360)
+scale = Vector2(0.681825, 0.680878)
+texture = ExtResource("1_ahpdg")

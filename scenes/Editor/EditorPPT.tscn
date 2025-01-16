@@ -1,0 +1,48 @@
+[gd_scene load_steps=4 format=3 uid="uid://coekgd4cpoiwt"]
+
+[ext_resource type="Script" path="res://scripts/Editor/editor.gd" id="1_hhixy"]
+[ext_resource type="Script" path="res://scripts/Editor/save.gd" id="2_1fswr"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_7u1gu"]
+bg_color = Color(0.136826, 0.136826, 0.136826, 1)
+
+[node name="Node2D" type="Node2D"]
+
+[node name="ScrollContainer" type="ScrollContainer" parent="."]
+offset_right = 300.0
+offset_bottom = 1280.0
+theme_override_styles/panel = SubResource("StyleBoxFlat_7u1gu")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="ScrollContainer"]
+layout_mode = 2
+theme_override_constants/separation = 20
+script = ExtResource("1_hhixy")
+
+[node name="MzWaitText" type="Button" parent="."]
+offset_left = 963.0
+offset_top = 339.0
+offset_right = 971.0
+offset_bottom = 347.0
+text = "Wait for text to complete"
+script = ExtResource("2_1fswr")
+
+[node name="MzSetBG" type="Button" parent="."]
+offset_left = 1065.0
+offset_top = 284.0
+offset_right = 1289.0
+offset_bottom = 315.0
+text = "Set a Background
+"
+script = ExtResource("2_1fswr")
+
+[node name="Save" type="Button" parent="."]
+offset_left = 871.0
+offset_top = 426.0
+offset_right = 1095.0
+offset_bottom = 457.0
+text = "Stupid long save button"
+script = ExtResource("2_1fswr")
+
+[connection signal="pressed" from="MzWaitText" to="Save" method="_on_mz_wait_chr_pressed"]
+[connection signal="pressed" from="MzSetBG" to="Save" method="_on_mz_set_bg_pressed"]
+[connection signal="pressed" from="Save" to="Save" method="_on_pressed"]

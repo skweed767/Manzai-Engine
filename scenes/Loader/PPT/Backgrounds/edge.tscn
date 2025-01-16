@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://b34lshk786u70"]
+
+[ext_resource type="Texture2D" uid="uid://p3m0uytwd4fp" path="res://assets/PPT/Backgrounds/edge.png" id="1_7y8kn"]
+
+[node name="Sprite2D" type="Sprite2D"]
+position = Vector2(639.5, 359)
+scale = Vector2(0.667188, 0.669759)
+texture = ExtResource("1_7y8kn")

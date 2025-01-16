@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://ddids68wpr3dy"]
+
+[ext_resource type="Texture2D" uid="uid://b8rmu42g1whjx" path="res://assets/PPT/Backgrounds/arcade.png" id="1_bvq5v"]
+
+[node name="Sprite2D" type="Sprite2D"]
+position = Vector2(639.5, 359)
+scale = Vector2(0.667188, 0.669759)
+texture = ExtResource("1_bvq5v")

@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bjbdoxnj1yin2"]
+
+[ext_resource type="Texture2D" uid="uid://dtq72wd0ixull" path="res://assets/PPT/Backgrounds/primpschool.png" id="1_e1jom"]
+
+[node name="Sprite2D" type="Sprite2D"]
+position = Vector2(639.5, 359)
+scale = Vector2(0.667188, 0.669759)
+texture = ExtResource("1_e1jom")

@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://d2orx8r1esuhk"]
+
+[ext_resource type="AudioStream" uid="uid://nqsxp7mr7nd1" path="res://assets/PPT/Music/1-31. Homecoming, And Then....mp3" id="1_uayg2"]
+
+[node name="Homecoming" type="AudioStreamPlayer"]
+stream = ExtResource("1_uayg2")
+parameters/looping = true

@@ -1,0 +1,383 @@
+[gd_scene load_steps=12 format=3 uid="uid://djjidj0qhnavw"]
+
+[ext_resource type="Texture2D" uid="uid://b2xjuy2mja4ih" path="res://assets/PPT/Characters/mz_chara_ris/mz_chara_ris.narc/mz_chara_ris_000.png" id="1_oof6q"]
+[ext_resource type="Texture2D" uid="uid://ddac5qpudmkum" path="res://assets/PPT/Characters/mz_Name_Plate/mz_Name_Plate_000.png" id="2_6sg8b"]
+[ext_resource type="Texture2D" uid="uid://f7luel1vbb72" path="res://assets/PPT/Characters/mz_name/mz_Name_e_01.png" id="3_inasc"]
+
+[sub_resource type="Animation" id="Animation_l8ubi"]
+resource_name = "Attention"
+length = 0.1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.0666667),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector2(-142, 600), Vector2(-142, 528)]
+}
+
+[sub_resource type="Animation" id="Animation_bfroa"]
+resource_name = "Enter (Left)"
+length = 0.3
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("..:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.266667),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector2(-360, 6), Vector2(140, 6)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("../Name Plates/Left:position")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(50, 1270)]
+}
+tracks/2/type = "value"
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/path = NodePath(".:scale")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(0.658, 0.658)]
+}
+tracks/3/type = "value"
+tracks/3/imported = false
+tracks/3/enabled = true
+tracks/3/path = NodePath(".:position")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(-142, 600)]
+}
+tracks/4/type = "value"
+tracks/4/imported = false
+tracks/4/enabled = true
+tracks/4/path = NodePath("../Name Plates/Right:modulate")
+tracks/4/interp = 1
+tracks/4/loop_wrap = true
+tracks/4/keys = {
+"times": PackedFloat32Array(0.1),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 1, 0)]
+}
+tracks/5/type = "value"
+tracks/5/imported = false
+tracks/5/enabled = true
+tracks/5/path = NodePath("../Name Plates/Left:modulate")
+tracks/5/interp = 1
+tracks/5/loop_wrap = true
+tracks/5/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 1, 1)]
+}
+
+[sub_resource type="Animation" id="Animation_8lay2"]
+resource_name = "Enter (Right)"
+length = 0.3
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("..:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.266667),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector2(1400, 38), Vector2(880, 28)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("../Name Plates/Right:position")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(100, 1250)]
+}
+tracks/2/type = "value"
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/path = NodePath(".:scale")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(-0.658, 0.658)]
+}
+tracks/3/type = "value"
+tracks/3/imported = false
+tracks/3/enabled = true
+tracks/3/path = NodePath(".:position")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(-124, 577)]
+}
+tracks/4/type = "value"
+tracks/4/imported = false
+tracks/4/enabled = true
+tracks/4/path = NodePath("../Name Plates/Left:modulate")
+tracks/4/interp = 1
+tracks/4/loop_wrap = true
+tracks/4/keys = {
+"times": PackedFloat32Array(-0.0333333),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 1, 0)]
+}
+tracks/5/type = "value"
+tracks/5/imported = false
+tracks/5/enabled = true
+tracks/5/path = NodePath("../Name Plates/Right:modulate")
+tracks/5/interp = 1
+tracks/5/loop_wrap = true
+tracks/5/keys = {
+"times": PackedFloat32Array(0.0333333),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 1, 1)]
+}
+
+[sub_resource type="Animation" id="Animation_ifbd5"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = false
+tracks/0/path = NodePath("..:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(0, 0)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = false
+tracks/1/path = NodePath("../Name Plates/Right:position")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(236, 235)]
+}
+tracks/2/type = "value"
+tracks/2/imported = false
+tracks/2/enabled = false
+tracks/2/path = NodePath("../Name Plates/Left:position")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(1086, 505)]
+}
+tracks/3/type = "value"
+tracks/3/imported = false
+tracks/3/enabled = false
+tracks/3/path = NodePath(".:scale")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(-1, 1)]
+}
+tracks/4/type = "value"
+tracks/4/imported = false
+tracks/4/enabled = false
+tracks/4/path = NodePath(".:position")
+tracks/4/interp = 1
+tracks/4/loop_wrap = true
+tracks/4/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(-124, 603)]
+}
+tracks/5/type = "value"
+tracks/5/imported = false
+tracks/5/enabled = true
+tracks/5/path = NodePath("../Name Plates/Left:modulate")
+tracks/5/interp = 1
+tracks/5/loop_wrap = true
+tracks/5/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 1, 1)]
+}
+tracks/6/type = "value"
+tracks/6/imported = false
+tracks/6/enabled = true
+tracks/6/path = NodePath("../Name Plates/Right:modulate")
+tracks/6/interp = 1
+tracks/6/loop_wrap = true
+tracks/6/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 1, 1)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_ueqtw"]
+_data = {
+"Attention": SubResource("Animation_l8ubi"),
+"Enter (Left)": SubResource("Animation_bfroa"),
+"Enter (Right)": SubResource("Animation_8lay2"),
+"RESET": SubResource("Animation_ifbd5")
+}
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_bp8uf"]
+atlas = ExtResource("1_oof6q")
+region = Rect2(768, 0, 256, 256)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_oq4r8"]
+atlas = ExtResource("1_oof6q")
+region = Rect2(768, 256, 256, 256)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_kqybi"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_bp8uf")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_bp8uf")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_bp8uf")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_bp8uf")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_bp8uf")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_bp8uf")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_bp8uf")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_bp8uf")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_bp8uf")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_bp8uf")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_oq4r8")
+}],
+"loop": true,
+"name": &"default",
+"speed": 10.0
+}]
+
+[node name="risukuma" type="Node2D"]
+position = Vector2(4376, -303)
+scale = Vector2(-1, 1)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+root_node = NodePath("../Pose")
+libraries = {
+"": SubResource("AnimationLibrary_ueqtw")
+}
+
+[node name="Pose" type="Sprite2D" parent="."]
+position = Vector2(-142, 600)
+scale = Vector2(-0.658, 0.658)
+texture = ExtResource("1_oof6q")
+offset = Vector2(0, -55)
+region_enabled = true
+region_rect = Rect2(60.141, 0, 610.384, 1024)
+
+[node name="Blink" type="AnimatedSprite2D" parent="Pose"]
+position = Vector2(72.9483, -469.605)
+rotation = 3.14159
+scale = Vector2(1, -1)
+sprite_frames = SubResource("SpriteFrames_kqybi")
+autoplay = "default"
+frame_progress = 0.601843
+flip_h = true
+
+[node name="Name Plates" type="Control" parent="."]
+z_index = 6
+layout_mode = 3
+anchors_preset = 0
+offset_left = -205.0
+offset_top = -665.0
+offset_right = -165.0
+offset_bottom = -625.0
+
+[node name="Left" type="Sprite2D" parent="Name Plates"]
+position = Vector2(50, 1270)
+scale = Vector2(0.537, 0.537)
+texture = ExtResource("2_6sg8b")
+flip_h = true
+region_enabled = true
+region_rect = Rect2(7.10001, 0.300003, 755.7, 127.6)
+
+[node name="Name" type="Sprite2D" parent="Name Plates/Left"]
+z_index = 1
+position = Vector2(-3.05176e-05, 3.72241)
+scale = Vector2(1.00012, 1.00012)
+texture = ExtResource("3_inasc")
+flip_h = true
+
+[node name="Right" type="Sprite2D" parent="Name Plates"]
+position = Vector2(100, 1250)
+scale = Vector2(0.536938, 0.536938)
+texture = ExtResource("2_6sg8b")
+flip_h = true
+region_enabled = true
+region_rect = Rect2(4.89993, 127.433, 762.856, 128.567)
+
+[node name="Name" type="Sprite2D" parent="Name Plates/Right"]
+z_index = 1
+position = Vector2(-3.72461, 5.58716)
+scale = Vector2(1.00012, 1.00012)
+texture = ExtResource("3_inasc")
+flip_h = true

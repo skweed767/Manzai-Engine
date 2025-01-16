@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://bptj25y078j5x"]
+
+[ext_resource type="AudioStream" uid="uid://is1mejlyhopy" path="res://assets/PPT/Music/1-30. Dialogue - The Edge of Spacetime.mp3" id="1_0kfa1"]
+
+[node name="Edge" type="AudioStreamPlayer"]
+stream = ExtResource("1_0kfa1")
+parameters/looping = true

@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://y0plckf8d7t6"]
+
+[ext_resource type="AudioStream" uid="uid://cv5nu2v856s5d" path="res://assets/PPT/Music/1-22. Dialogue - Aboard the Spaceship.mp3" id="1_lop12"]
+
+[node name="Spaceship" type="AudioStreamPlayer"]
+stream = ExtResource("1_lop12")
+parameters/looping = true

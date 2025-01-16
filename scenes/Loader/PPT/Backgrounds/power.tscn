@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://tb86ewjlqn16"]
+
+[ext_resource type="Texture2D" uid="uid://bi4kyuak16mr" path="res://assets/PPT/Backgrounds/power.png" id="1_11tyj"]
+
+[node name="Sprite2D" type="Sprite2D"]
+position = Vector2(639.5, 359)
+scale = Vector2(0.667188, 0.669759)
+texture = ExtResource("1_11tyj")

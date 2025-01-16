@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://cd6gf6m1iqp1e"]
+
+[ext_resource type="Texture2D" uid="uid://bm07qm00hynfr" path="res://assets/PPT/Backgrounds/puyoswirl.png" id="1_782kf"]
+
+[node name="Sprite2D" type="Sprite2D"]
+position = Vector2(639.5, 359)
+scale = Vector2(0.667188, 0.669759)
+texture = ExtResource("1_782kf")

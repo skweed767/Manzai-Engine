@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://b0lv0uv3h5ywn"]
+
+[ext_resource type="Texture2D" uid="uid://dhnxh4iy3ue4j" path="res://assets/PPT/Backgrounds/bigbang.png" id="1_t4fm0"]
+
+[node name="Sprite2D" type="Sprite2D"]
+position = Vector2(639.5, 359)
+scale = Vector2(0.667188, 0.669759)
+texture = ExtResource("1_t4fm0")
