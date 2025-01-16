@@ -1,6 +1,5 @@
 # Manzai-Engine
-An incomplete Puyo Puyo Tetris Manzai system recreation capable of loading Puyo Puyo Manzai files made in Godot 4
-
+A Puyo Puyo Manzai system recreation made in Godot 4. (it's currently only designed for Puyo Puyo Tetris as of now)
 
 
 Manzai Command Compatibility list
