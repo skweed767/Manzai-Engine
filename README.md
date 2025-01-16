@@ -6,12 +6,12 @@ A incomplete Puyo Puyo Tetris manzai system recreation made in godot/
 
 Manzai Command Compatibility list
 
-SystemAbort ✓
-Wait ✓
-LoadBGM ✓
-PlayBGM ✓
-PlaySE ✓
-StopSE ✓
+SystemAbort ✓ <br>
+Wait ✓ <br>
+LoadBGM ✓ <br>
+PlayBGM ✓ <br>
+PlaySE ✓ <br>
+StopSE ✓ <br>
 SetVolumeBGM ✓
 MzSetBG ✓
 MzLoadChr ✓
