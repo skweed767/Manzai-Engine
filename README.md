@@ -12,36 +12,36 @@ LoadBGM ✓ <br>
 PlayBGM ✓ <br>
 PlaySE ✓ <br>
 StopSE ✓ <br>
-SetVolumeBGM ✓
-MzSetBG ✓
-MzLoadChr ✓
-MzLoadChrPos
-MzDeleteChr ✓
-MzEnterChr ✓
-MzExitChr ✓
-MzWaitChr ✓
-MzAttentionChr 
-MzChangeAnime
-MzSetText ✓
-MzWaitText ✓
-MzSetAutoTextWaitFrame
-MzChangeName
-MzEffectChr
-MzStartDemoDarkness ✓
-MzEffectBg
-MzEffectAll ✓
-MzWaitEffectAll ✓
-MzPlayFade
-MzStopFade
-MzFadeEffect
-MzFadeEffectWait
-MzFadeOutMaster
-MzFadeInMaster
-MzExitChrOpp
-MzExitChrFall
-MzPlayFallTetorimino
-MzPlayFallTetoriminoEx
-MzStopFallTetorimino
-MzWaitFallTetorimino
-MzPlaySE_loop ✓
-MzStopSE
+SetVolumeBGM ✓ <br>
+MzSetBG ✓ <br>
+MzLoadChr ✓ <br>
+MzLoadChrPos <br>
+MzDeleteChr ✓ <br>
+MzEnterChr ✓ <br>
+MzExitChr ✓ <br>
+MzWaitChr ✓ <br>
+MzAttentionChr  <br>
+MzChangeAnime <br>
+MzSetText ✓ <br>
+MzWaitText ✓ <br>
+MzSetAutoTextWaitFrame <br>
+MzChangeName <br>
+MzEffectChr <br>
+MzStartDemoDarkness ✓ <br>
+MzEffectBg <br>
+MzEffectAll ✓ <br>
+MzWaitEffectAll ✓ <br>
+MzPlayFade <br>
+MzStopFade <br>
+MzFadeEffect <br>
+MzFadeEffectWait <br>
+MzFadeOutMaster <br>
+MzFadeInMaster <br>
+MzExitChrOpp <br>
+MzExitChrFall <br>
+MzPlayFallTetorimino <br>
+MzPlayFallTetoriminoEx <br>
+MzStopFallTetorimino <br>
+MzWaitFallTetorimino <br>
+MzPlaySE_loop ✓ <br>
+MzStopSE <br>
